@@ -6,4 +6,4 @@ I am drawn to finding solutions by pairing ideas with technical skills and a kee
 
 - 🔭 I’m currently working as a freelance web developer
 - 🌱 I’m currently learning React, Redux and all things Javascript
-- 🔎 I'm searching for a Junior Developer position to hone my skills
+- 🔎 I'm searching for a junior developer position to hone my skills
